@@ -1,0 +1,16 @@
+key,edition,conference_key,year,city
+0,1st Edition,0,2010,Barcelona
+1,2nd Edition,0,2011,London
+2,3rd Edition,0,2012,Paris
+3,1st Edition,1,2002,Rome
+4,2nd Edition,1,2003,Germany
+5,3rd Edition,1,2004,London
+6,1st Edition,2,2015,Barcelona
+7,2nd Edition,2,2016,Paris
+8,3rd Edition,2,2017,Germany
+9,1st Edition,3,1999,Rome
+10,2nd Edition,3,2000,London
+11,3rd Edition,3,2001,Barcelona
+12,1st Edition,4,2019,Paris
+13,2nd Edition,4,2020,Germany
+14,3rd Edition,4,2021,London

@@ -1,0 +1,102 @@
+key,title,doi,authors_key,edition_key,volume_key,keywords_keys,pages
+0,Assessing the Impact of Artificial Intelligence on the Accounting Profession,10.1000/182,12|8,1,,6|15|28,23-31
+1,Exploring the use of Machine Learning Algorithms in Predicting Cardiovascular Diseases,10.1000/299,6|13,6,,0|12|18|23,12-21
+2,The Role of Computer Networks in Supply Chain Management,10.1000/932,4|5|15,8,,14|40|43,56-65
+3,Challenges and Opportunities of Cloud Computing in the Healthcare Industry,10.1000/786,11|16,3,,3|13|17|31|41,44-51
+4,Application of Natural Language Processing Techniques in Financial Analysis,10.1000/563,3|7,14,,0|17|28|32,76-84
+5,Impact of Social Media on Consumer Behavior: A Study of the Fast Fashion Industry,10.1000/257,9|10|15,13,,4|15|28|34,104-112
+6,Assessing the Efficacy of Robotic Surgery in Orthopedic Procedures,10.1000/434,0|3|14,2,,2|12|47,127-135
+7,The Use of Big Data Analytics in Enhancing Cybersecurity,10.1000/712,17|18,4,,12|31|32|43,89-97
+8,Exploring the Relationship Between Entrepreneurial Orientation and Business Success,10.1000/194,1|2,9,,15|25|31,55-63
+9,Machine Learning-based Prediction of Stock Prices: A Comparative Study,10.1000/983,6|8|11|13,12,,3|17|28|29|40,76-82
+10,The Impact of Digital Marketing on the Luxury Goods Industry,10.1000/372,5|7|9,14,,4|15|28|34,98-105
+11,Challenges and Opportunities of Blockchain in Supply Chain Management,10.1000/637,4|15|19,2,,14|40|43,67-75
+12,The Role of Artificial Intelligence in Cybersecurity: A Comprehensive Study,10.1000/579,17|18,11,,12|31|32|43,23-30
+13,Developing a Mobile Application for Mental Health: A Case Study,10.1000/879,1|6,0,,1|12|33|37,44-50
+14,Application of Computer Vision Techniques in Industrial Quality Control,10.1000/121,7|18,4,,0|18|19|31,120-128
+15,Exploring the Impact of Cloud Computing on E-commerce: A Case Study,10.1000/937,11|16,7,,3|13|17|31|41,78-85
+16,The Role of Human Resource Management in Enhancing Organizational Performance,10.1000/874,2|9|15,10,,15|23|38,89-97
+17,Assessing the Impact of Robotics on the Manufacturing Industry,10.1000/623,0|3|14,6,,2|12|47,65-72
+18,The impact of social media on customer purchasing behavior,10.1000/182,4|9,2,,4|8|10,10-17
+19,Machine learning algorithms for predicting cancer diagnosis,10.1001/528,1|6|10,8,,3|18|26|38,25-35
+20,Corporate social responsibility and consumer behavior: A meta-analysis,10.1002/833,0|2|4,13,,2|4|15|16|20,55-67
+21,The influence of website design on online shopping behavior,10.1003/454,7|11,1,,0|7|9|17,78-83
+22,Blockchain technology and its impact on supply chain management,10.1004/627,15,6,,9|17|22|30,42-49
+23,Neural networks for speech recognition: A comparative study,10.1005/946,2|13,13,,2|18|21|27,63-74
+24,The role of emotional intelligence in leadership effectiveness,10.1006/231,3|7,12,,0|3|7|16|18,30-40
+25,Impact of customer satisfaction on brand loyalty: An empirical study,10.1007/438,5|8,3,,3|5|10|15|25|35,15-22
+26,The impact of artificial intelligence on the job market,10.1008/118,4|9|12,14,,1|18|23|35,50-56
+27,Factors influencing the adoption of mobile payment systems,10.1009/992,1|2|8,11,,7|12|16|18,20-28
+28,The effects of e-commerce on traditional retail business,10.1010/236,0|1|5|14,5,,2|5|8|14|24|36,60-68
+29,Blockchain technology for secure electronic voting systems,10.1011/529,6|10|15|16,4,,5|9|12|18|26,40-47
+30,The impact of big data on supply chain management,10.1012/357,9|11|16,8,,6|9|11|14|19|28,30-38
+31,The role of social media in building brand communities,10.1013/998,0|2|7|13,12,,4|8|11|15|28,75-83
+32,Machine learning for predicting stock prices: A comparative analysis,10.1014/811,3|5|7,3,,5|9|14|21,55-62
+33,Factors influencing online consumer behavior: A review,10.1015/375,4|9|12|16,9,,1|4|8|19|28,20-27
+34,The impact of entrepreneurship education on entrepreneurial intention,10.1016/238,2|6,11,,2|7|10|14|20,45-53
+35,The impact of online reviews on consumer purchasing behavior,10.1017/357,7|10|15,14,,3|6|13|18|22|29,75-84
+36,The Role of Artificial Intelligence in Business Growth,10.1123/457,4|7|11,10,,9|16|28|36,25-30
+37,The Effect of Social Media on Teenagers' Mental Health,10.8789/523,2|6|8,2,,12|20|25|39,40-50
+38,The Importance of Cybersecurity in the Banking Industry,10.9657/654,3|9,7,,0|1|4|14|30|46,10-20
+39,The Future of E-commerce: Trends and Innovations,10.4571/902,12|14,11,,8|17|21|27|31|41,65-75
+40,The Role of Cloud Computing in Remote Workforce Management,10.7746/246,1|5|16,12,,7|23|33|44,55-65
+41,The Impact of Green Marketing on Consumer Behavior,10.6110/631,18|19,8,,2|10|15|29|38|46,30-40
+42,The Relationship between Employee Engagement and Job Satisfaction,10.9998/765,13|15,5,,16|25|32|36,90-100
+43,The Effect of Artificial Intelligence on Job Automation,10.3334/125,4|6|10|17,13,,6|15|22|28|39|45,50-60
+44,The Influence of Corporate Social Responsibility on Brand Image,10.7777/901,9|11|18,9,,1|7|16|26|34|47,55-65
+45,The Importance of Data Analysis in Healthcare,10.1122/564,3|5|7|12,3,,5|9|18|26|30|35,20-30
+46,The impact of blockchain technology on supply chain management,10.1017/466,5|8|11,11,,5|9|17|23,25-36
+47,The impact of mindfulness practices on workplace productivity,10.1017/467,2|6,9,,1|10|24|31,45-52
+48,The use of big data analytics in healthcare: opportunities and challenges,10.1017/468,4|12|16,3,,0|4|14|20|36,112-125
+49,Exploring the relationship between social media usage and mental health,10.1017/469,1|7|13|18,2,,11|16|25|28|30|43,65-74
+50,The impact of e-commerce on small business: A case study of Barcelona,10.1017/470,19,6,,7|21|26|32,92-103
+51,Assessing the effectiveness of machine learning algorithms in predicting heart disease,10.1017/001,2|6,,4,2|5|17|24,29-36
+52,The relationship between organizational culture and job satisfaction in small businesses,10.1017/002,7|11|15,,6,7|12|19|27,41-52
+53,Analyzing the impact of blockchain technology on supply chain management,10.1017/003,1|5|14,,10,9|13|23|37,63-72
+54,The role of social media in promoting mental health awareness,10.1017/004,3|12|13|15,,3,0|3|14|18|31,20-32
+55,The effect of different types of exercise on cognitive function in older adults,10.1017/005,8|16,,12,8|15|20|28,54-61
+56,Exploring the factors influencing consumer loyalty in e-commerce,10.1017/006,0|4|7|11,,8,4|9|21|30,43-52
+57,The impact of remote work on job satisfaction and productivity,10.1017/007,9|10|12|16,,13,1|6|10|16|28,67-78
+58,Assessing the effectiveness of online education in developing countries,10.1017/008,1|4|6|13,,1,8|13|15|25,43-54
+59,The relationship between employee motivation and organizational performance,10.1017/009,2|3|7|18,,2,1|11|16|24|26|34,19-28
+60,Analyzing the impact of artificial intelligence on job displacement,10.1017/010,0|3|10|14,,5,8|10|20|28,47-58
+61,Exploring the factors influencing employee turnover in the hospitality industry,10.1017/011,5|8|12|15,,9,10|11|22|26|34,63-72
+62,The effect of mindfulness meditation on stress and anxiety in college students,10.1017/012,4|9|13|17,,0,4|14|17|25|29|44,37-46
+63,The impact of corporate social responsibility on consumer behavior,10.1017/013,1|6|11|12,,7,6|12|24|27,57-68
+64,Assessing the effectiveness of gamification in educational settings,10.1017/014,2|3|6|10,,11,13|18|21|23|32,49-56
+65,The Influence of Social Media Marketing on Consumer Buying Behavior,10.1111/273,1|5|8,,10,2|11|25|31|33|43,15-22
+66,Artificial Intelligence and its Impact on Business Strategies,10.1186/297,3|7|9|12,,2,2|14|23|25|26,103-112
+67,The Role of Human Resource Management in the Success of Startups,10.2392/432,6|10|11,,8,1|7|11|16|28,45-56
+68,The Impact of E-commerce on Small Business Owners,10.5547/234,4|8|12,,4,4|13|18|27|34|39,231-240
+69,The Importance of Branding in the Success of Small Businesses,10.1695/290,9|13|18,,6,5|6|11|16|32|41,87-96
+70,The Future of Blockchain Technology in Supply Chain Management,10.2987/344,2|7|14,,3,3|7|12|23|27|31,53-64
+71,The Impact of Social Media on Mental Health,10.1016/789,1|3|16,,11,7|14|16|22|28|40,123-132
+72,The Effect of Online Education on Traditional Classroom Learning,10.5122/543,5|8|12|15,,9,9|11|18|25|32|37,67-76
+73,The Impact of Cloud Computing on Business Operations,10.7869/679,7|11|14|19,,7,1|13|18|25|28|32,203-212
+74,The Role of Artificial Intelligence in Medical Diagnosis,10.2987/451,4|6|9|18,,5,6|12|16|20|26|45,155-164
+75,The Impact of Social Media Influencers on Marketing Strategies,10.9654/219,2|5|8|15,,0,6|7|19|28|31|41,45-56
+76,The Importance of Cybersecurity in Business Operations,10.7654/543,0|2|10,,12,4|9|11|16|29|30,187-196
+77,The Effect of Corporate Social Responsibility on Brand Image,10.2398/827,9|12|16|17,,13,1|8|11|16|20|25,97-106
+78,The Impact of Artificial Intelligence on Customer Service,10.6677/123,1|7|14|19,,1,7|13|20|28|32|47,82-91
+79,The Role of Emotional Intelligence in Leadership,10.9746/234,0|3|10|18,,14,2|6|13|16|23|43,116-124
+80,The Impact of Online Shopping on the Retail Industry,10.2314/765,4|7|11|13,,10,4|8|19|20|26|30,147-156
+81,The Effect of Digital Marketing on Consumer Behavior,10.1235/567,2|9|16|18,,6,3|12|15|21|26|29,89-98
+82,The effect of cognitive-behavioral therapy on anxiety disorders,10.1017/832,1|5|11,,7,8|16|27|32,12-24
+83,The role of big data in the insurance industry,10.1017/833,0|3|12|14,,3,19|21|33|37,105-118
+84,The impact of social media on brand loyalty,10.1017/834,2|6|9|11,,11,1|5|13|22|29,43-52
+85,The use of artificial intelligence in financial forecasting,10.1017/835,8|14,,5,0|1|11|16|22,65-76
+86,The effectiveness of telemedicine in rural healthcare,10.1017/836,4|7|16,,8,4|10|18|24,32-41
+87,The impact of digital marketing on small businesses,10.1017/837,3|9|11,,13,14|17|20|26|38,89-96
+88,The use of virtual reality in education,10.1017/838,0|2|18|19,,5,9|15|23|25|32,55-63
+89,The effects of employee training on job satisfaction,10.1017/839,1|7|13|15,,4,6|12|23|27,47-54
+90,The role of blockchain technology in supply chain management,10.1017/840,6|8|10,,12,13|14|17|20|35,101-114
+91,The impact of social media influencers on consumer behavior,10.1017/841,4|5|11|12,,7,1|9|13|24|31|48,79-90
+92,The use of chatbots in customer service,10.1017/842,0|3|16|18,,14,7|8|19|25|30,62-71
+93,The effects of workplace diversity on team performance,10.1017/843,2|7|10|17,,9,2|10|16|23|33,36-47
+94,The role of cybersecurity in protecting personal information,10.1017/844,1|3|5|9,,3,3|11|14|21|40,92-105
+95,The impact of e-commerce on traditional retail,10.1017/845,6|12|15,,10,20|22|27|30|37,120-131
+96,The use of machine learning in predicting stock prices,10.1017/846,0|4|8|13,,12,5|12|24|26|32,56-65
+97,The effects of mindfulness meditation on mental health,10.1017/847,1|3|6|19,,9,7|14|18|21|34|48,82-93
+98,The role of cloud computing in healthcare,10.1017/848,2|7|16|17,,4,3|9|13|19,52-59
+99,The impact of social media on political polarization,10.1017/849,4|8|14|16,,11,0|6|17|26|30|38,67-76
+100,The use of augmented reality in the tourism industry,10.1017/850,1|3|5|9,,2,3|8|15|22|31|49,3-6
