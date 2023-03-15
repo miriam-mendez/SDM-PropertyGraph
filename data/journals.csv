@@ -1,6 +1,5 @@
-key,journal
-0,Journal of Psychology
-1,Journal of Medicine and Health
-2,Journal of Environmental Science
-3,Journal of Business and Finance
-4,Journal of Computer Science and Technology
+id,journal
+0,CoRR
+1,Remote. Sens.
+2,Entropy
+3,IEEE Trans. Biomed. Eng.
