@@ -1,51 +1,51 @@
-key,keyword
-0,Biochemistry
-1,Neurology
-2,Pharmacology
-3,Finance
-4,Marketing
-5,Accounting
-6,Algorithms
-7,Database
-8,Artificial Intelligence
-9,Computer Networks
-10,Human-Computer Interaction
-11,Cardiology
-12,Oncology
-13,Endocrinology
-14,Management
-15,Entrepreneurship
-16,International Business
-17,Data Science
-18,Machine Learning
-19,Computer Vision
-20,Robotics
-21,Operating Systems
-22,Computer Architecture
-23,Software Engineering
-24,Neurosurgery
-25,Ophthalmology
-26,Dermatology
-27,Investment
-28,Corporate Finance
-29,Financial Analysis
-30,Cloud Computing
-31,Information Security
-32,Natural Language Processing
-33,Computer Graphics
-34,Computer Animation
-35,Computer Games
-36,Gastroenterology
-37,Pediatrics
-38,Infectious Diseases
-39,Human Resource Management
-40,Supply Chain Management
-41,Project Management
-42,Web Development
-43,Mobile Application Development
-44,Computer Programming
-45,Computer Hardware
-46,Computer Software
-47,Orthopedic Surgery
-48,Plastic Surgery
-49,Cardiothoracic Surgery
+id,keyword
+0,Machine learning
+1,Artificial intelligence
+2,Data mining
+3,Big data
+4,Data visualization
+5,Statistical analysis
+6,Neural networks
+7,Deep learning
+8,Natural language processing
+9,Computer vision
+10,Predictive modeling
+11,Regression analysis
+12,Clustering
+13,Classification
+14,Supervised learning
+15,Unsupervised learning
+16,Reinforcement learning
+17,Decision trees
+18,Random forests
+19,Support vector machines
+20,Dimensionality reduction
+21,Feature engineering
+22,Data cleaning
+23,Data preprocessing
+24,Data augmentation
+25,Data integration
+26,Data warehousing
+27,Data governance
+28,Data security
+29,Data privacy
+30,Cloud computing
+31,Distributed systems
+32,Parallel computing
+33,High-performance computing
+34,Algorithms
+35,Computational complexity
+36,Graph theory
+37,Optimization
+38,Numerical methods
+39,Simulation
+40,Data structures
+41,Object-oriented programming
+42,Functional programming
+43,Programming languages
+44,Software engineering
+45,Agile methodologies
+46,DevOps
+47,Continuous integration
+48,Continuous delivery
+49,Version control
