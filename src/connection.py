@@ -9,9 +9,12 @@ class Neo4jConnection:
     def close(self):
         self.driver.close()
 
-    def query(self, query):
+    def query(self, query, get_results=False):
         with self.driver.session(database=self.database) as session:
-            response = session.run(query)
+            if not get_results:
+                response = session.run(query)
+            else:
+                response = session.read_transaction(query)
         
         return response
 
