@@ -40,11 +40,11 @@ def generate_citations(df, alpha=2):
         
         for ix, cited in df.sample(n=n_possible_cited).iterrows():
             if article.year > cited.year:
-                citing_articles.append(article.key)
-                cited_articles.append(cited.key)
+                citing_articles.append(article.id)
+                cited_articles.append(cited.id)
 
-    citations = pd.DataFrame({'citer_key': citing_articles, 
-                            'cited_key': cited_articles})
+    citations = pd.DataFrame({'citer_id': citing_articles, 
+                            'cited_id': cited_articles})
     return citations
 
 
@@ -52,6 +52,9 @@ def check_citations_is_dag(citations):
     G = nx.DiGraph()
 
     for ix, row in citations.iterrows():
-        G.add_edge(row.citer_key, row.cited_key)
+        G.add_edge(row.citer_id, row.cited_id)
 
     return nx.is_directed_acyclic_graph(G)
+
+# def data_keywords_injection():
+    # pass
