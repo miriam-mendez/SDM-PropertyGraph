@@ -1,0 +1,1 @@
+CALL gds.graph.project('graph','Article',{CITES_TO: {orientation: 'UNDIRECTED'}});
