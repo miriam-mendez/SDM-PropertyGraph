@@ -158,16 +158,16 @@ conn.query(query)
 # In[116]:
 
 
-# query = """
-# LOAD CSV WITH HEADERS FROM 'file:///Users/ereve/projects/mds/sdm/data/papers.csv' AS row
-# MERGE (p:Article {id: toInteger(row.id), title: row.title, doi: row.doi, pages:row.pages, abstract:row.abstract})
+query = """
+LOAD CSV WITH HEADERS FROM 'file:///Users/ereve/projects/mds/sdm/data/papers.csv' AS row
+MERGE (p:Article {id: toInteger(row.id), title: row.title, doi: row.doi, pages:row.pages, abstract:row.abstract})
 
-# WITH p, row
-# MATCH (v:Volume {id: toInteger(row.volume_id)})
-# MERGE (p)-[:PRESENTED_AT]-(v)
-# """
+WITH p, row
+MATCH (v:Volume {id: toInteger(row.volume_id)})
+MERGE (p)-[:PRESENTED_AT]-(v)
+"""
 
-# conn.query(query)
+conn.query(query)
 
 
 # Load corresponding authors:
@@ -255,4 +255,19 @@ MERGE (a)-[:AFFILIATED_WITH]-(o)
 """
 
 conn.query(query)
+
+
+# In[3]:
+
+
+with open('src/cypher/c1.cypher', 'r') as f:
+    query = f.read()
+
+
+# In[11]:
+
+
+import src.run_c
+
+src.run_c
 
